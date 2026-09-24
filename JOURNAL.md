@@ -5,4 +5,4 @@ description: "a midi controller with 4 encoders on it for sound and lighting tec
 created_at: "2026-24-09"
 ---
 
-# "2026-24-09" beginnings 
+# 2026-24-09  Beginnings 
