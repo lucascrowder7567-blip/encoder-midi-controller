@@ -5,5 +5,7 @@ description: "a midi controller with 4 encoders on it for sound and lighting tec
 created_at: "2026-24-09"
 ---
 
-# 2026-24-09  Beginnings 
-![]()
+# September 24  Beginnings/ layout 
+![layout](assets/Screenshot(9).png)
+I spent today setting up the project and designing some options for the layout of the components.
+
