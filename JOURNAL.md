@@ -25,4 +25,6 @@ there is an issue that the encoder runs at 5v and the pico can only handle signa
 Today I got done with the schematic portion of the PCB
 ![schematic of PCB](assets/Screenshot(3).png)
 
+i am not the most experienced with ECAD so it took a while to get done  
+
 
