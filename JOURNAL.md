@@ -27,4 +27,6 @@ Today I got done with the schematic portion of the PCB
 
 i am not the most experienced with ECAD so it took a while to get done  
 
+# October 4 PCB layout
+
 
