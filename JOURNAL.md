@@ -25,20 +25,25 @@ there is an issue that the encoder runs at 5v and the pico can only handle signa
 Today I got done with the schematic portion of the PCB
 ![schematic of PCB](assets/Screenshot(3).png)
 
-i was luckily able to find
-i am not the most experienced with ECAD so it took a while to get done  
+I was luckily able to find a symbol for the encoders on the vendors website. I wasn't as lucky with the logic level shifter IC and as I am not the most experienced with that part of ECAD it took a while but I got it done.
+![picture of IC symbol](assets/Screenshot( ).png)
 
 # October 3 PCB layout
 Today I started on the layout and routing for the PCB
-!pic
+![layout at end of October 3rd](assets/Screenshot( ).png)
 
-I was struggling to find a location to place the pico where I would be out of the way and I would still be able to access all the needed pins easily so I ended up figuring out that I could surface mount the board so that i could use the back copper under the pads to rout traces.
-!pic
+I was struggling to find a location to place the pico where I would be out of the way and I would still be able to access all the needed pins easily so I ended up figuring out that I could surface mount the board so that I could use the back copper under the pads to rout traces.
+![picture of SMD pico](assets/Screenshot( ).png)
+
+
 
 # October 5 cleaning up and finishing PCB
+Today I finished up the PCB routing
+![[layout at end of October 5th](assets/Screenshot( ).png)
 
-
+there was not much I did but clean things up. I had to move a number of the traces on the back copper to the front copper so the ground plane was less broken up
 
 # October 13 3D MODELS
-
+Today I made progress on the 3d models for the PCB and case
+![[3D models at end of October 13th](assets/Screenshot( ).png)
 
