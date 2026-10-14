@@ -25,8 +25,20 @@ there is an issue that the encoder runs at 5v and the pico can only handle signa
 Today I got done with the schematic portion of the PCB
 ![schematic of PCB](assets/Screenshot(3).png)
 
+i was luckily able to find
 i am not the most experienced with ECAD so it took a while to get done  
 
-# October 4 PCB layout
+# October 3 PCB layout
+Today I started on the layout and routing for the PCB
+!pic
+
+I was struggling to find a location to place the pico where I would be out of the way and I would still be able to access all the needed pins easily so I ended up figuring out that I could surface mount the board so that i could use the back copper under the pads to rout traces.
+!pic
+
+# October 5 cleaning up and finishing PCB
+
+
+
+# October 13 3D MODELS
 
 
