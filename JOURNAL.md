@@ -47,3 +47,7 @@ there was not much I did but clean things up. I had to move a number of the trac
 Today I made progress on the 3d models for the PCB and case
 ![[3D models at end of October 13th](assets/Screenshot( ).png)
 
+
+# October 14 continuing on case model
+
+
