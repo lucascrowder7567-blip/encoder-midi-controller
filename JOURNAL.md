@@ -54,6 +54,6 @@ i designed the bottom plate and was working on the top cover when I realized tha
 
 ![3D models at end of October 13th](assets/Screenshot(11).png)
 
-# October 14 continuing on case model
+# October 15 continuing on case model
 
 
