@@ -39,13 +39,13 @@ I was struggling to find a location to place the pico where I would be out of th
 
 # October 5 cleaning up and finishing PCB
 Today I finished up the PCB routing
-![[layout at end of October 5th](assets/Screenshot(9).png)
+![layout at end of October 5th](assets/Screenshot(9).png)
 
 there was not much I did but clean things up. I had to move a number of the traces on the back copper to the front copper so the ground plane was less broken up
 
 # October 13 3D MODELS
 Today I made progress on the 3d models for the PCB and case
-![[3D models at end of October 13th](assets/Screenshot(6).png)
+![3D models at end of October 13th](assets/Screenshot(6).png)
 
 
 # October 14 continuing on case model
