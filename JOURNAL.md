@@ -50,6 +50,7 @@ Today I made progress on the 3d models for the PCB and case
 I assigned all the 3d models for the components in Kicad than exported it to Onshape. It took two tries as I right away realized I forgot to add mounting holes to the PCB.
 
 i designed the bottom plate and was working on the top cover when I realized that the encoders stuck out quite a bit from the keys so I replaced them with a slightly shorter version [EM14R0D-M20-L064S](https://www.mouser.com/en/ProductDetail/Bourns/EM14R0D-M20-L064S?qs=CrTVAl0CcnLShMqPEt46xw%3D%3D)
+
 ![3D models at end of October 13th](assets/Screenshot(11).png)
 
 # October 14 continuing on case model
