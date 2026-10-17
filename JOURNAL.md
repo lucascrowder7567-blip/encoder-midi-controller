@@ -54,6 +54,19 @@ i designed the bottom plate and was working on the top cover when I realized tha
 
 ![3D models at end of October 13th](assets/Screenshot(11).png)
 
-# October 15 continuing on case model
+# October 16 continuing on case model
+Today I continued work on modeling the case.
+![3D models at end of October 16th](assets/Screenshot( ).png)
 
+I added [rubber pads](https://us.rs-online.com/product/3m/sj5008/71084044/?srsltid=AU7gw4V0mWjLraRceBR4rFQhyrX0cXkZM5Yg3UQO1DZGuiu9x-XZ9TS8AXo) for the feet and raised the top half of the case so the knobs wouldn't be so tall 
+
+there where some issues. 
+- the holes to screw everything together are to close to the edges and look weird
+- I wanted the knobs to be a bit wider
+- the transition between the lower section and the higher section looks weird with it being sandwiched closely between the knobs and keys
+- the bar between some of the keys is rather thin and could be fragle
+- there is an uneven spacing on ether side of the board
+![3D models at end of October 13th](assets/Screenshot( ).png)![3D models at end of October 13th](assets/Screenshot( ).png)
+
+I plan on doing some finale edits on the PCB to fix these issues next
 
